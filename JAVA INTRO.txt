@@ -1,0 +1,72 @@
+                                        INTRODUCTION TO JAVA
+                                        =====================
+
+*JAVA:it is a object oriented programming language.
+-->it is initialy invented by james gosling
+
+-->JAVA is a case sensitive.
+-->JAVA is a platform independent,which can run in any ios.
+-->because of byte form java is independent platform.
+ 
+*JAVA COMPILER:it converts source code to binary code.
+-------------
+
+*INTERPRETER: which converts byte code to binary code this process is called interpretation.
+-----------
+-->JAVA  has 3 versions:
+I.JSE
+
+II.JEE
+
+III.JME
+
+I.JSE :
+=====
+-->JSE stands for java standard edition.
+-->we can implement desktop applications or console applications.
+-->desktop application means which can only excuted in single system or os.
+eg:-games,MS office,media players.
+-->console applications like editplus,notepad.
+
+II.JEE:
+=======
+-->JEE stands for java enterprise edition.
+-->This is for business applications.
+-->web applications like server.which will be installed and executed in server system.
+eg:-online games.
+diff between web application and enterprise application:
+--------------------------------------------------------
+-->if it is web application we follow 2 tire architecture,sometimes it also follow 3 tire architecture to store database
+-->if it is eneterprise application we follow n tire architecture.
+III.JME:
+=======
+-->JME stands for java micro/mobile edition.
+-->JME is used to implement java mobile applications
+
+JDK:
+---
+JDK stands for java development kit.
+
+JDK  is a software which is used to implement the java applications.
+
+JDK=JRE+JVM
+*JRE:
+-->JRE stands for java run time environment.
+-->JRE provides run time environment for java programs
+*JVM:
+=====
+-->JVM stands for java virtualmachine.
+-->which converts byte code to binary code with help of JIT
+-->In JVM there is JIT which stands for "just in time"
+-->JIT converts byte code to binary code.
+
+FEATURES OF JAVA:
+================
+1.object-oriented.
+2.paltform independent.
+3.simple.
+4.secure.
+5.portable.
+6.robust.
+7.multithread.
+8.distributed.
